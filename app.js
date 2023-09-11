@@ -17,6 +17,6 @@ function cambiarColor() {
 }
 
 function reiniciarJuego() {
-    colores.push("red", "blue", "green", "yellow", "orange", "purple");
+    colores.push("red", "blue", "green", "yellow", "orange", "purple", "brown", "black", "white");
     div.style.backgroundColor = "#5750506e"; // Cambia esto al color inicial deseado
 }
